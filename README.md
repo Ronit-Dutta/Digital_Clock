@@ -1,2 +1,2 @@
 # Digital_Clock
-A basic digital clock prepared in a short time.
+A basic digital clock prepared in a short time.Just for practice..
